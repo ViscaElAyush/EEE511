@@ -1,0 +1,12 @@
+bldgname,R2_score_bigdata_best,R2_score_limiteddata_best,Activation Function,No of hidden layers,Loss function
+Goldwater,0.9413575985474673,0.9322956527989885,leaky_relu,1,<function huber_loss at 0x7f3a2b674a70>
+Bulldog Hall,0.822471122987507,0.5385142335606705,relu,5,<function huber_loss at 0x7f3a2b674a70>
+ISTB 2,0.9407117185300301,0.8780701626631597,selu,3,mean_squared_error
+Psychology North,0.8316009013286874,0.7367654999003315,elu,1,mean_absolute_error
+Schwada COB,0.8593979315536522,0.8500242869927436,relu,3,mean_absolute_error
+Biodesign C,0.7132769803596818,0.6696368261584111,relu,5,mean_absolute_error
+Biodesign A,0.9329014178596234,0.7989688069710499,leaky_relu,1,<function huber_loss at 0x7f3a2b674a70>
+Psychology,0.9060091094042995,0.8166372796829912,selu,5,<function huber_loss at 0x7f3a2b674a70>
+Biodesign B,0.9623449106261878,0.908074765004101,leaky_relu,1,<function huber_loss_mean at 0x7f3a2b6748c0>
+Noble Library,0.7835274555570804,0.5779021167476254,elu,1,mean_absolute_error
+ISTB 4,0.9745618835906658,0.9145170912564872,elu,3,<function huber_loss at 0x7f3a2b674a70>
