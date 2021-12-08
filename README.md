@@ -2,7 +2,7 @@
 
 ###### HOW TO RUN CODE #######
 
-1. SETUP ENVIRONMENT: To run, first load any of the two .ipynb files in Google Colab or a local machine if all libraries are installed
+1. SETUP ENVIRONMENT: To run, first load the "Neural_Network_Model_Final.ipynb" file in Google Colab or a local machine if all libraries are installed
 
 2. LOAD DATA: The data was research data collected from an ASU research team "SHADE LAB". 
 --> Open this link and download the data: https://drive.google.com/drive/folders/1fJSJXgCLRJpfmjIprZbeuAUstHAtZKFd?usp=sharing
